@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 my name is Kyle.
+
+After graduating from business school with a degree in finance and starting my career in the institutional wealth management industry for several years.  While working as an Analyst in my wealth management role, I challenged myself to improve one of our monthly reporting processes which previously had always been completed manually.  After many months of teaching myself VBA, I am proud to have reduced our reporting process from over 6 hours to less than 15 minutes.  This solidified my decision to make a career change and jump into software development!
+
+I am currently studying computer science at the University of British Columbia.  Within that, I am building experience in networking (TCP/IP, cyber security), object oriented programming, data structures, algorithms, and computer/operating systems among many other topics!
+
+My experienced languages are C++, C, Java, Python, C#, SQL, HTML, CSS.
+
+Always looking to connect with new people professionally and socially. Feel free to message me at https://www.linkedin.com/in/kdjones/.
 
 <!--
 **CdrePuddles/CdrePuddles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
