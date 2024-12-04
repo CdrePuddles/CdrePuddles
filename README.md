@@ -4,7 +4,7 @@ After graduating from business school with a degree in finance and starting my c
 
 I am currently studying computer science at the University of British Columbia.  Within that, I am building experience in networking (TCP/IP, cyber security), object oriented programming, data structures, algorithms, and computer/operating systems among many other topics!
 
-My experienced languages are C++, C, Java, Python, C#, SQL, HTML, CSS.
+My experienced languages are C++, C, Java, Python, C#, SQL, HTML, CSS, and I am constantly learning more.
 
 Always looking to connect with new people professionally and socially. Feel free to message me at https://www.linkedin.com/in/kdjones/.
 
