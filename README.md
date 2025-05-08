@@ -1,10 +1,10 @@
 ## Hi there 👋 my name is Kyle.
 
-After graduating from business school with a degree in finance and starting my career in the institutional wealth management industry for several years.  While working as an Analyst in my wealth management role, I challenged myself to improve my team's monthly reporting process which previously had always been completed manually.  After many months of teaching myself VBA, I am proud to have reduced our reporting process from over 6 hours to less than 15 minutes.  This solidified my decision to make a career change and jump into software development!
+My journey started with a degree in finance and a several year-long career in the institutional wealth management industry.  While working as an Analyst in my wealth management role, I challenged myself to improve my team's monthly reporting process which previously had always been completed manually.  After many months of analyzing the process and self-learning fundamental programming concepts, I am proud to have reduced our reporting process from over 6 hours to less than 15 minutes.  This solidified my decision to make a career change and jump into software development!
 
 I am currently studying computer science at the University of British Columbia.  Within that, I am building experience in distributed systems, networking (TCP/IP, cyber security), object oriented programming, data structures, algorithms, and computer/operating systems among many other topics!
 
-My experienced languages are C++, C, Java, GoLang, JavaScript, TypeScript, Python, C#, SQL, HTML, CSS, and I am constantly learning more.
+My experienced languages are GoLang, C++, C, Java, JavaScript, TypeScript, Python, C#, SQL, HTML, CSS, and I am constantly learning more.
 
 Always looking to connect with new people professionally and socially. Feel free to message me at https://www.linkedin.com/in/kdjones/.
 
